@@ -78,6 +78,8 @@
     .header h1{
     width: 100% !important;
     font-size: 40px !important;
-
+}
+.News, .Blogs{
+     height: auto !important;
 }
 }
